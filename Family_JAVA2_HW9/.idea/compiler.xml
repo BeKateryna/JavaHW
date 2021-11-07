@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Family_JAVA2" />
+        <module name="Family_JAVA2_HW9" />
         <module name="Family_JAVA2_Last" />
       </profile>
     </annotationProcessing>

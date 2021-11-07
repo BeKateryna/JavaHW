@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="147cb77a-db79-40fd-bf8d-a1446e4f84e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/FamilyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/FamilyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/dao/CollectionFamilyDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/dao/FamilyDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/DayOfWeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/DomesticCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Family.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/RoboCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Species.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/Woman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/out/production/Family_HW10/Family_HW10/modal/animalsFuels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/FamilyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/FamilyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/FamilyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/FamilyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/dao/CollectionFamilyDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/dao/CollectionFamilyDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/dao/FamilyDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/dao/FamilyDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/DayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/DayOfWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/DomesticCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/DomesticCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/Family.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/Family.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/Man.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/RoboCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/RoboCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/Species.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/Species.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/Woman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW10/modal/animalsFuels.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_HW10/src/Family_HW11/modal/animalsFuels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../Family_JAVA2_HW9/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../Family_JAVA2_HW9/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../.idea/compiler.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../../../../.." />
+  </component>
+  <component name="ProjectId" id="20YOfzop423fxl4r7TxQV36Yzta" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Family.HW8.Main" />
+      <module name="HW8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Family.HW8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="147cb77a-db79-40fd-bf8d-a1446e4f84e7" name="Changes" comment="" />
+      <created>1636218161781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636218161781</updated>
+      <workItem from="1636218163095" duration="744000" />
+      <workItem from="1636296230634" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
